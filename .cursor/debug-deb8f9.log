@@ -1,0 +1,4 @@
+{"sessionId":"deb8f9","hypothesisId":"H1","location":"client-effects.tsx:mounted","message":"ClientEffects hydrated","data":{"mounted":true},"timestamp":1780465437527}
+{"sessionId":"deb8f9","hypothesisId":"H2","location":"particles.tsx:useEffect","message":"Particles built client-only","data":{"count":45},"timestamp":1780465437610}
+{"sessionId":"deb8f9","hypothesisId":"H1","location":"client-effects.tsx:mounted","message":"ClientEffects hydrated","data":{"mounted":true},"timestamp":1780465442620}
+{"sessionId":"deb8f9","hypothesisId":"H2","location":"particles.tsx:useEffect","message":"Particles built client-only","data":{"count":28},"timestamp":1780465442876}
